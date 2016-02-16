@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gestafedericiii00holdgoog_0002.png"; bbox 0 0 933 1392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 86 95 130 120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 86 95 130 120">
+     <span class='ocr_line' id='line_1_1' title="bbox 86 95 130 120; baseline -0.023 0"><span class='ocrx_word' id='word_1_1' title='bbox 86 95 130 120; x_wconf 72' lang='lat'>⁰03</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 90 169 150 231">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 90 169 150 231">
+     <span class='ocr_line' id='line_1_2' title="bbox 90 169 134 194; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 90 169 134 194; x_wconf 73' lang='lat'>553</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 91 204 150 231; baseline -0.034 0"><span class='ocrx_word' id='word_1_3' title='bbox 91 204 150 231; x_wconf 61' lang='grc' dir='ltr'>λ1.27</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
